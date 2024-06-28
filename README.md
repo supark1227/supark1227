@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sangun Park
+- 👋 Hi, I’m Sangun Park, a professor teaching machine learning, deep learning and text mining.
 - 👀 I’m interested in LLM, prompt engineering, deep learning, etc.
 - 🌱 I’m currently learning RAG, PEFT, SFT, RLHF.
 - 💞️ I’m looking to collaborate on developing LLM applications.
